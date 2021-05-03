@@ -1,4 +1,4 @@
-# upnpg-igd
+# upnpd-igd
 Ubuntu based upnp server with linux-igd
 
 Environment variables:
